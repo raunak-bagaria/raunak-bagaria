@@ -1,3 +1,4 @@
+<p align="center"><img width="40%" height="10%" alt="Hi, I'm Raunak :)" src="./pfp-header.png" /></p>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-bagaria-0541b5329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunakbagaria.rb@gmail.com) 
